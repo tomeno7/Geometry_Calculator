@@ -1,0 +1,15 @@
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\Geometry_Calculator.csproj.AssemblyReference.cache
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\Geometry_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\Geometry_Calculator.AssemblyInfoInputs.cache
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\Geometry_Calculator.AssemblyInfo.cs
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\Geometry_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\bin\Debug\net6.0\Geometry_Calculator.exe
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\bin\Debug\net6.0\Geometry_Calculator.deps.json
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\bin\Debug\net6.0\Geometry_Calculator.runtimeconfig.json
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\bin\Debug\net6.0\Geometry_Calculator.dll
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\bin\Debug\net6.0\Geometry_Calculator.pdb
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\Geometry_Calculator.dll
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\refint\Geometry_Calculator.dll
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\Geometry_Calculator.pdb
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\Geometry_Calculator.genruntimeconfig.cache
+C:\Users\tomasz.sieczka\source\repos\Geometry_Calculator\Geometry_Calculator\obj\Debug\net6.0\ref\Geometry_Calculator.dll
